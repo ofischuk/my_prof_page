@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This it private corporate web page!
 
-Template Name: Dewi
-Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
-Author: BootstrapMade.com
+Name: Golden Path Enterprise Consulting
+Author: oleksander.fischuk
 License: https://bootstrapmade.com/license/
