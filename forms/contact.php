@@ -21,8 +21,10 @@
   
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
+    'SMTPAuth' => 'true',
     'username' => 'aleksandr.fischuk@gmail.com',
-    'password' => '',
+    'password' => 'kmda qhsz azfi aftg',
+    'SMTPSecure' => 'PHPmailer::ENCRYPTION_STARTTLS',
     'port' => '587'
   );
   
